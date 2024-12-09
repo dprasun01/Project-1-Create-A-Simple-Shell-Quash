@@ -1,5 +1,5 @@
-# Welcome to Quash
-#### A simple command shell in C by Prasun Dhungana
+# Welcome to Quash ### by Prasun Dhungana
+#### A simple command shell in C
 
 ## Quash Shell Implementation Report
 
