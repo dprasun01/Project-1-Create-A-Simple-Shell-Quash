@@ -1,3 +1,8 @@
+/*
+  This project was completed by:
+  Prasun Dhungana - @02969212
+*/
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
