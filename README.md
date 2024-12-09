@@ -1,4 +1,4 @@
-# Welcome to Quash <h3>by Prasun Dhungana</h3>
+# Welcome to Quash <h3>by Prasun Dhungana (@02969212)</h3>
 #### A simple command shell in C
 
 ## Quash Shell Implementation Report
